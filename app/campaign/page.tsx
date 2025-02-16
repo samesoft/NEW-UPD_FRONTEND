@@ -115,7 +115,7 @@ export default function Campaign() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {[
                 { name: "Hassan Sheikh Mohamud", image: "/NEWS-4.jpg" },
-                { name: "Mohamed Hussein Roble", image: "/odowaa.jpg" },
+                { name: "Abdirahman Odowaa", image: "/Odowaa.jpg" },
                 { name: "Hamza Abdi Barre", image: "/PM-Hamze.jpg" },
               ].map((candidate, index) => (
                 <Card
